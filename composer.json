@@ -1,0 +1,13 @@
+{
+    "name": "firmino/easy-paginator",
+    "description": "Simple custom paginate any array",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "firmino2611",
+            "email": "lucasfirmino_dev@homail.com"
+        }
+    ],
+    "require": {}
+}
