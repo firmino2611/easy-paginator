@@ -14,13 +14,5 @@
         "psr-4": {
             "Firmino\\EasyPaginator\\": "./"
         }
-    },
-    "extra": {
-        "providers": [
-            "\\Firmino\\EasyPaginator\\Providers\\EasyPaginatorServiceProvider"
-        ],
-        "aliases": {
-            "EasyPaginator": "Firmino\\EasyPaginator\\Facades\\EasyPaginator"
-        }
     }
 }
