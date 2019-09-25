@@ -1,6 +1,6 @@
 <?php
 
-namespace  Firmino\EsyPaginator\Providers;
+namespace  Firmino\EasyPaginator\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Firmino\EasyPaginator\EasyPaginator;
