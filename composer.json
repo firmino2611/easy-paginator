@@ -16,13 +16,11 @@
         }
     },
     "extra": {
-        "laravel": {
-            "providers": [
-                "Firmino\\EasyPaginator\\Providers\\EasyPaginatorServiceProvider"
-            ],
-            "aliases": {
-                "EasyPaginator": "Firmino\\EasyPaginator\\Facades\\EasyPaginator"
-            }
+        "providers": [
+            "\\Firmino\\EasyPaginator\\Providers\\EasyPaginatorServiceProvider"
+        ],
+        "aliases": {
+            "EasyPaginator": "Firmino\\EasyPaginator\\Facades\\EasyPaginator"
         }
     }
 }
