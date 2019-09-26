@@ -34,4 +34,12 @@ class EasyPaginator {
          $page->withPath(url(request()->path()));
          return $page;
     }
+
+    /**
+     * Order the data by field
+     * @param $field
+     */
+    public function orderBy($field) {
+
+    }
 }
